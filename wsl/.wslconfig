@@ -1,0 +1,5 @@
+# For all wsl instances
+[wsl2]
+memory=4GB
+processors=4
+swap=4GB
